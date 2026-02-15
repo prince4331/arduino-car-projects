@@ -1,4 +1,6 @@
-﻿# Arduino Car Projects
+﻿# Car Projects
+
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Robotics-brightgreen) ![Status](https://img.shields.io/badge/status-Active-success)
 
 Early DC motor and obstacle-avoidance prototypes plus legacy full builds for mobile robotics.
 
