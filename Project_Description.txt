@@ -1,0 +1,4 @@
+﻿Title: Arduino Car Projects
+Overview: Early DC motor and obstacle-avoidance prototypes plus legacy full builds for mobile robotics.
+Hardware: Arduino Uno, ultrasonic sensors, L293D/L298N drivers, gear motors, steering servos.
+Notes: Use the Full_Build_Object_Avoiding_Robot folder as the reference implementation.
